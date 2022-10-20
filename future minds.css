@@ -1,0 +1,155 @@
+body{
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+    
+}
+#header{
+    background-color: black;
+    padding-bottom: 20px;
+}
+#nav-brand{
+    color: white;
+    font-size: 30px;
+    letter-spacing: 2px;
+    font-family: monospace;
+    margin-right: 900px;
+}
+#fro{
+    margin-left: 70%;
+    margin-top: -10px;
+}
+.f{
+    text-decoration: none;
+    color: gray;
+    padding-left: 20px;
+}
+.u{
+    text-decoration: none;
+    color: white;
+    padding-left: 20px;
+}
+.t{
+    text-decoration: none;
+    color: white;
+    padding-left: 20px;
+}
+.u{
+    text-decoration: none;
+    color: white;
+    padding-left: 20px;
+}
+.f:hover{
+    color: grey;
+}
+.u:hover{
+    color: grey;
+}
+.t:hover{
+    color: grey;
+}
+.u:hover{
+    color: grey;
+}
+#body{
+    background-image: url(./online.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    text-align: center;
+}
+p{
+    color: rgb(61, 61, 61);
+    font-size: 50px;
+    font-family: cursive;
+    font-weight: lighter;
+    line-height: 2;
+    padding-top: 80px;
+    font-weight: bold;
+}
+button{
+    background-color: #0003;
+    backdrop-filter: blur(3px);
+    border: 2px lighter;
+    border:0;
+    color: black;
+    font-weight: bold;
+    width: 10%;
+    height: 30px;
+}
+button:hover{
+    color: black;
+    background-color: white;
+    transition: 0.5s all;
+}
+#main-frame{
+    padding-top: 50px;
+    padding-left: 80px;
+}
+#first{
+    background-color: black;
+    color: white;
+    height: 190px;
+    width: 200px;
+    text-align: center;
+    padding-top: 60px;
+    line-height: 2;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+#second{
+    background-color: black;
+    color: white;
+    height: 190px;
+    width: 200px;
+    text-align: center;
+    line-height: 2;
+    letter-spacing: 1px;
+    margin-left: 325px;
+    padding-top: 60px;
+    margin-top: -250px;
+    cursor: pointer;
+}
+#third{
+    background-color: black;
+    color: white;
+    height: 190px;
+    width: 200px;
+    text-align: center;
+    line-height: 2;
+    letter-spacing: 1px;
+    margin-left: 640px;
+    padding-top: 60px;
+    margin-top: -250px;
+    cursor: pointer;
+}
+#four{
+    background-color: black;
+    color: white;
+    height: 190px;
+    width: 200px;
+    text-align: center;
+    line-height: 2;
+    letter-spacing: 1px;
+    margin-left: 940px;
+    padding-top: 60px;
+    margin-top: -250px;
+    cursor: pointer;
+}
+span{
+    text-decoration: underline;
+    font-family: cursive;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 50px;
+    cursor: pointer;
+}
+.down-container{
+    color: white;
+    text-decoration: underline;
+}
